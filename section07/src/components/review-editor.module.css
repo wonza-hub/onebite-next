@@ -24,7 +24,7 @@
 .form_container button {
   width: 80px;
   padding: 10px;
-  background-color: rgp(37, 147, 255);
+  background-color: rgb(37, 147, 255);
   color: white;
   border: none;
   border-radius: 5px;
